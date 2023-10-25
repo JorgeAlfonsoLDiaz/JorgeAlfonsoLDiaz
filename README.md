@@ -1,5 +1,20 @@
-### Hi there 👋
+## ¡Hola programadores y no programadores!
+#### Este es mi perfil de Github.
 
+### Cosas que he estado aprendiendo
+
+* Programación Orientada a Objetos
+* Fundamentos de Redes
+* Bases de datos
+* Desarrollo de Aplicaciones Web
+* Desarrollo de APIs (En curso)
+* IoT (En curso)
+
+### Mis intereses principales
+
+* Desarrollo de Aplicaciones Móviles
+* Desarrollo de Aplicaciones Web
+* Desarrollo de Videojuegos
 <!--
 **JorgeAlfonsoLDiaz/JorgeAlfonsoLDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
