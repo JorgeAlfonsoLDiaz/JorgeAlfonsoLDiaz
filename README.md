@@ -9,8 +9,8 @@
 * Desarrollo de Aplicaciones Web
 * Desarrollo de APIs
 * Aplicaciones Web para la I4.0 (Haciendo uso de MVC)
-* IoT (En curso)
-* Desarrollo de Apps Móviles (En curso)
+* IoT
+* Desarrollo de Apps Móviles
 
 ### Mis intereses principales
 
