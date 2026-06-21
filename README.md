@@ -17,6 +17,9 @@
 * Desarrollo de Aplicaciones Móviles
 * Desarrollo de Aplicaciones Web
 * Desarrollo de Videojuegos
+
+### Currently...
+I'm currently reviewing and improving past projects. Their respective repositories will be made public progressively.
 <!--
 **JorgeAlfonsoLDiaz/JorgeAlfonsoLDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
